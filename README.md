@@ -1,5 +1,5 @@
-# ROBO-DOC
-Healthcare chatbot to predict Diseases based on patient symptoms.A Chatbot for Disease Prediction is an AI-powered virtual assistant designed to help users assess their health by analyzing symptoms and providing possible disease predictions. These chatbots use Natural Language Processing (NLP) to understand user input, Machine Learning (ML) models for diagnosis, and medical databases for reference.
+# HEALTH-ASSISTANT
+Health-Assistant chatbot to predict Diseases based on patient symptoms.A Chatbot for Disease Prediction is an AI-powered virtual assistant designed to help users assess their health by analyzing symptoms and providing possible disease predictions. These chatbots use Natural Language Processing (NLP) to understand user input, Machine Learning (ML) models for diagnosis, and medical databases for reference.
 
 ![WhatsApp Image 2025-03-19 at 12 32 27_996db641](https://github.com/user-attachments/assets/fc8efaa9-1aa5-415a-84b7-b6e207961bef)
 
